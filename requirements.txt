@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic
+xgboost
+numpy
+pytrends
+requests
+openai
